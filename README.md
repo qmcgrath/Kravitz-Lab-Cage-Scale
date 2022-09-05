@@ -1,9 +1,12 @@
 # Kravitz-Lab-Cage-Scale
 Quinlan McGrath, Robbie Schaefer, Lex Kravitz, Gunwoo Lee, Vishal Puppula 
 
-  The use of food and water restriction, drugs, surgery, and disease models in live mouse studies require continuous monitoring of body weight to surveill mouse health and determine experiment endpoints. Resolution of weight fluctuation over time can offer researchers a more complete picture of mouse health. Traditional manual weighing induces stress in mice and disrupts circadian rhythms.Existing commercial and open source autonomous mouse weight systems are available. However, commercial systems are not cost effective and an open source system does not exist that can be used in colonial housing cages. 
+  The use of food and water restriction, drugs, surgery, and disease models in live mouse studies require continuous monitoring of body weight to surveill mouse health and determine experiment endpoints. Resolution of weight fluctuation over time can offer researchers a more complete picture of mouse health. Traditional manual weighing induces stress in mice and disrupts circadian rhythms.Existing commercial and open source autonomous mouse weight systems are available. However, commercial systems are not cost effective, cannot be used in colonial housing cages, or required rFID tags. 
+ 
   This accurate, non-invasive recording of mouse weight allows for increased volume of body weight data while decreasing animal stress and human interaction. The developed scale can be constructed for $X and operates for ~3.5 days on one charge. It has a small footprint of XxXxX and can be used in singley housed mice in traditional vivarium cages without modification. An Hx711 and proximity sensor work in tandem to determine mouse weight readings. The scale is operates on open source arduino code and data is anlysised with provided python code. 
+  
   It was demonstrated that the scale can acheived and estimation of mouse weight with an average of 1.55% error with 50% hourly resolution (22 instances). Hourly resolution can be increased to 100% at the expense of an increased average error of 1.66% (33 instances). Accuracy was determined via comparision of maunaul weighing and reported weights for the same hour. Twenty two instances were used. It was demonstrated that this scale has potential appications in circadian rhythm monitoring, energy expendature evaluation, and group housed mice.  
+  
   Assemebly, hardware and software overviews, quick start instructions, and code documentation are available in the wiki. The Jupyter notebooks used for data anlysis are provided. 
 
 
@@ -40,3 +43,5 @@ The importance of calibration factor on accuracy was evaluted. Figure X demonstr
 ### Scale Limitation Discussion 
 
 ### Next Steps 
+- More user friendly 3d design 
+- improved calibration code 
