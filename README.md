@@ -1,5 +1,5 @@
 # Kravitz-Lab-Cage-Scale
-Quinlan McGrath, Robbie Schaefer, Lex Kravitz, Gunwoo Lee, Vishal Puppula 
+Quinlan McGrath, Robbie Schaefer, Lex Kravitz, Gunwoo Lee
 
   The use of food and water restriction, drugs, surgery, and disease models in live mouse studies require continuous monitoring of body weight to surveill mouse health and determine experiment endpoints. Resolution of weight fluctuation over time can offer researchers a more complete picture of mouse health. Traditional manual weighing induces stress in mice and disrupts circadian rhythms.Existing commercial and open source autonomous mouse weight systems are available. However, commercial systems are not cost effective, cannot be used in colonial housing cages, or required rFID tags. 
  
