@@ -27,6 +27,7 @@ The methodology for calcuting the hourly weight from the scale data was simple. 
 
 
 Figure 3:Weight error percent distribution. 
+
 <img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/histrogamErrorNoScaleSEp.png" width="200">
 
 
