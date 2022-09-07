@@ -30,8 +30,8 @@ Figure 3:Weight error percent distribution.
 
 <img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/histrogamErrorNoScaleSEp.png" width="200">
 
+....WIP
 
-<wip>
 Table 1 was recreated for data in which hourly median weight was interpolated across hours in which not enough cgrams were reported. This increased resolution to 100%, will only minorly increasing overal error to 1.66%. 
 
 However, it can be seen in the color coded histogram that not all scales performed equally. In fact, Table 3 demonstrates the distribution of error across the scales - with scale A outperforming the other two substaintially.
