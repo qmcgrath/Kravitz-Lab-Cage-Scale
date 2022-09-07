@@ -15,9 +15,13 @@ X mice were used for data acquisition. Three scales (labeled A, B, C) were const
 Code and data used are available above. The manual recorded weights are available in XXXXX.
 
 Figure 1: Visualization of the basic scale operations. 
+
 <img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/rangeandCgramsSA.png" width="200">
+
 Figure 2: 
+
 <img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/weightVsRecordSA.png" width="200">
+
 
 The methodology for calcuting the hourly weight from the scale data was simple. First, any report cgrams < 15 g were dropped, as it can be assumed these were recorded when the mouse was only partially on the scale. Next, the data was binned into hours and the median was found. Median weights were found to be more accurate than mode data. For further evaluation, a 'minimum number of cgram recordings per hour' was selected in which a reported weight could be deemed reliable or well informed. An array of minimum number counts, the resultant accuracy and resolution, and instances count (# of hours for which there was a manual weight available) are reported in Table 1. As shown, the average error is a minimum at a 150 instance thresehold. However, 100 data points was choosen as the optimal value as it has a higher resolution (nearly 50%) for minimum accuracy gain. Thus, it was determined that the scale can determine mouse weight with an accuracy of 1.55% with 50% resolution.
 
