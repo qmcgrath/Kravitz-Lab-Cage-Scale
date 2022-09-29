@@ -36,21 +36,6 @@ Table 1 was recreated for data in which hourly median weight was interpolated ac
 
 However, it can be seen in the color coded histogram that not all scales performed equally. In fact, Table 3 demonstrates the distribution of error across the scales - with scale A outperforming the other two substaintially.
 
-### Evaluation of Calibration Factor Impact 
-
-The importance of calibration factor on accuracy was evaluted. Figure X demonstrates the impact of retroactively varying the calibration factor on the accuracy of data acquistion run . 
-
-### Tracking of Circadian Rhythms 
-
-
-### Energy Expendature 
-
-## Discussion 
-
-### Summary of Recored Weight Selection Process 
-
-### Scale Limitation Discussion 
-
 ### Next Steps 
 - More user friendly 3d design 
 - improved calibration code 
