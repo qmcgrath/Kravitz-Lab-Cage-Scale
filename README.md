@@ -10,7 +10,8 @@ Accurate, non-invasive recording of mouse weight allows for increased volume of 
  Assemebly, hardware and software overviews, quick start instructions, and code documentation are available in the wiki. The Jupyter notebooks used for data anlysis are provided. 
 
 A graphical overview of embedded logic is shown below. 
-<img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/stateValueDiagram.png" width="200">
+
+<img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/stateValueDiagram.png" width="500">
 
 ## Results
 Three scales (labeled A, B, C) were constructed and included in testing procedures. Individually house mice were monitored continuously for an average of 5 days. Manual weights were recorded at 33 instances.  
