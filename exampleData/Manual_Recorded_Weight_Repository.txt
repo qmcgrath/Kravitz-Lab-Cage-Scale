@@ -1,0 +1,21 @@
+#recordedWeight demonstrates the manual weight taken in g
+#placement in the cage = hour 0 
+#SA030804
+recordedWeight_SA030804 = [25.8, 25.43, 25.26, 25.6, 25.1, 25.3, 25]
+hoursRecorded_SA030804 = [0 , 3, 5 ,25 ,29 ,48 ,52]
+
+#SB030802
+#recordedW_SB030802 = [29.13, 28.77, 28.47, 29.4, 28.7, 29, 29.1]
+#hoursRecorded_SB030802 = [0 , 3, 5 ,25 ,29 ,48 ,52]
+
+#SC030802
+recordedW_SC030802 =[40.34, 40.0, 40.0, 41.0, 40.4, 39.7, 39.5]
+hoursRecorded_SC030802 = [0 , 3, 5 ,25 ,29 ,48 ,52]
+
+#SA032101
+#recordedW_SA032101 = [29.5,29.29,29.29,29.2,29.39,29.56,29.63,29.19]
+#hoursRecorded_SA032101 = [0 , 5, 24,29 ,48 ,53 ,72,77]
+
+#SC032101
+#recordedW_SC032101 = [26.72,26.74,27.13,27.11,27.13,27.13,27.4,27.03]
+#hoursRecorded_SC032101  = [0 , 5, 24,29 ,48 ,53 ,72,77]
