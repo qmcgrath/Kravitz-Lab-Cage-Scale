@@ -39,8 +39,6 @@ Table 1 was recreated for data in which hourly median weight was interpolated ac
 
 However, it can be seen in the color coded histogram that not all scales performed equally. In fact, Table 3 demonstrates the distribution of error across the scales - with scale A outperforming the other two substaintially.
 
-### Data Selection Overview
-The sporadic nature of mouse interaction with the scale results in many partial weight records. Additionally, the nature of low-cost Arduino components results in lower quality data. Several steps where taken to filter recorded grams to improve accuracy. First, any data point below 15 grams was discarded. A trade off between accuracy and resolution, it was determined that a minimum of 100 recorded grams was sufficient. Median was used over mean, as it is more robust to outliers.  
 
 ### Next Steps 
 - More user friendly 3d design 
