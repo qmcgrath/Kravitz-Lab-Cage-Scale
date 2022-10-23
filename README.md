@@ -32,7 +32,7 @@ The methodology for calcuting the hourly weight from the scale data was simple. 
 
 Figure 3: Weight error percent distribution. 
 
-<img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/histrogamErrorNoScaleSEp.png" width="300">
+<img src="https://github.com/qmcgrath/Kravitz-Lab-Cage-Scale/blob/main/Images/errorAcrossSCales.png" width="300">
 
 
 Table 1 was recreated for data in which hourly median weight was interpolated across hours with insufficient cgrams were reported. This increased resolution to 100%, will only minorly increasing overall error to 1.66%. 
